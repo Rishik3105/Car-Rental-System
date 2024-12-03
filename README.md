@@ -45,8 +45,49 @@ displayCars() - Lists all available cars for rent.
 
 rentCar() - Allows users to rent a car by entering its number.
 
+Data Structures:
+
+Car Struct:
+
+Stores car details like model, brand, price, and availability.
+
+User Struct:
+
+Maintains user credentials with username and password.
+
 returnCar() - Facilitates returning a rented car.
 
 logoutUser() - Logs the user out.
 
 exitProgram() - Cleans up dynamically allocated memory and exits.
+
+🛡️ Usage 
+
+For Users:
+
+Register with a unique username and password.
+
+Login to access rental features.
+
+Use the user menu to rent or return cars.
+
+For Developers:
+
+Extend the code to integrate database functionality for persistent storage.
+
+Add additional features like rental history and advanced car search.
+
+
+📌 Future Enhancements
+
+Integration with a database for user and car information storage.
+
+Advanced car filtering options based on price, brand, and availability.
+
+Payment gateway integration for seamless transactions.
+
+💡 Feedback and Contributions
+
+Contributions are welcome! Please feel free to fork the repository, submit issues, or create pull requests.
+
+🎉 Thank you for exploring the Car Rental System!
